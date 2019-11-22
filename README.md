@@ -4,6 +4,8 @@ This is the code from Paul Graham's ANSI Common Lisp, tidied with my comments pl
 
 In particular, I added the ability to move the light source.
 
+All comments in the source files above are my own.
+
 # Output
 
 This is the basic output with the world as per the book, at 4x scale to be more impressive.
